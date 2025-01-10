@@ -70,9 +70,9 @@ Loading model...
 
 
 * Accuracy 0.89,  
-* Precision 0.93, 
-* Recall 0.85, 
-* F1 Score 0.89.  
+* Precision 0.93 
+* Recall 0.85 
+* F1 Score 0.89  
 
 Testing model: textattack/distilbert-base-uncased-imdb  
 * Positive Reviews: 122  
