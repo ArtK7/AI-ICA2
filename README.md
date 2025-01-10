@@ -69,7 +69,7 @@ Loading model...
 * Results: 
 
 
-* Accuracy 0.89,  
+* Accuracy 0.89  
 * Precision 0.93 
 * Recall 0.85 
 * F1 Score 0.89  
